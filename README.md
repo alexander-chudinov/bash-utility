@@ -1,2 +1,2 @@
 # bash-utility
-desktop cleaner and bossed changer python gui
+desktop cleaner and bssid changer python gui
