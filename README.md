@@ -1,2 +1,2 @@
 # bash-utility
-e
+desktop cleaner and bossed changer python gui
