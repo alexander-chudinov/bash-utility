@@ -1,5 +1,5 @@
 #!/bin/bash 
-cd /Users/alexanderChudinov/Desktop
+cd /Users/userName/Desktop
 mv *.png MISC
 mv *.txt MISC
 mv *.wav MISC
@@ -7,8 +7,8 @@ mv *.jpg MISC
 mv *.jpeg MISC
 mv *.svg MISC
 mv *.pdf MISC
-mv *.psd MISCs
-mv *.webarchive Webarchives
+mv *.psd MISC
+mv *.webarchive ARCHIVE
 mv *.html WEB
 mv *.js WEB
 mv *.css WEB
