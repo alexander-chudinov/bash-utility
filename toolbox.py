@@ -21,7 +21,7 @@ class toolboxGUI:
         self.close_button.grid(row=2, column=4)
         
     def cleanDesktop(self):
-        os.system('cd /Users/alexanderChudinov/Desktop/Tools; ./clean')
+        os.system('cd /Users/userName/Desktop/Tools; ./clean')
         print("Desktop cleaned.")
         
     def spoofMAC(self):
