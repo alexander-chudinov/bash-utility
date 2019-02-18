@@ -1,4 +1,4 @@
-# bash-utility
+# Python and Bash Utility
 ### Execution
 Download the repo and run : 
 ```
