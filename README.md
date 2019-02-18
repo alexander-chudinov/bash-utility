@@ -1,2 +1,7 @@
 # bash-utility
-desktop cleaner and bssid changer python gui
+### Execution
+Download the repo and run : 
+```
+python toolbox.py
+```
+This will open the GUI if you have the dependencies installed.
